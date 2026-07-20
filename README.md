@@ -16,6 +16,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
