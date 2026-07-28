@@ -19,6 +19,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -35,6 +36,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -62,6 +64,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
@@ -90,5 +93,6 @@
 | [0098-validate-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
