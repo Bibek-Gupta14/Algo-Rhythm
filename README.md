@@ -78,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
@@ -95,4 +96,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
