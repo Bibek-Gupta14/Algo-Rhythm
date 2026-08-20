@@ -76,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
