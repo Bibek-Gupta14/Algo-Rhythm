@@ -74,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
@@ -104,6 +105,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
