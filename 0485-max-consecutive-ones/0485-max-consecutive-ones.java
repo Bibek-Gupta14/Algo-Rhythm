@@ -9,6 +9,6 @@ class Solution {
                 count=0;
             }
         }
-        return max;
+        return (max>count)?max:count;
     }
 }
