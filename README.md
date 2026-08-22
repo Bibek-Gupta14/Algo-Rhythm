@@ -86,6 +86,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
