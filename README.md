@@ -1,4 +1,4 @@
-# Algo-Rhythm
+# 💜Algo-Rhythm❤️
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
