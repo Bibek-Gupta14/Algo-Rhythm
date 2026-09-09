@@ -1,7 +1,25 @@
 # 💜Algo-Rhythm❤️
 
+**Algo-Rhythm** is a highly structured, curated collection of essential **coding questions** designed to master the core patterns required to ace technical coding interviews. Instead of blindly grinding hundreds of problems, this repository focuses on finding the underlying "rhythm" and repeating mechanics behind complex data structures and algorithms. 
+
+
+## ➡️ Core Content
+
+* **Pattern-Based Organization**
+  * Problems are grouped by universal architectural patterns like Two Pointers, Sliding Window, and Backtracking
+  * Designed to help you recognize the solution template the moment you read an interview prompt
+
+* **Comprehensive Conceptual Coverage**
+  * Hand-picked questions tracking vital structures: Arrays, Linked Lists, Trees, Graphs, and Dynamic Programming
+  * Covers the full spectrum from foundational conceptual builders to complex, multi-layered system problems
+
+* **Optimised Solution Walkthroughs**
+  * Every problem includes clean code implementations focused on readability and best production practices
+  * Deep-dive breakdowns tracking exact time and space complexities for every single approach
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+## 📊 Interview Prep Tracker
+
 ## Tree
 |  |
 | ------- |
