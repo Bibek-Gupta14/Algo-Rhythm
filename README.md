@@ -20,8 +20,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## 📊 Interview Prep Tracker
-|  |
-| ------- |
+
 ## Tree
 |  |
 | ------- |
