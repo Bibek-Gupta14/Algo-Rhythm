@@ -113,6 +113,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -124,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0974-subarray-sums-divisible-by-k) |
