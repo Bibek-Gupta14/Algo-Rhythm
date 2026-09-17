@@ -11,7 +11,7 @@ class Solution {
             s2_freq[s2.charAt(i) - 'a']++;
         }
 
-        if(is_Matched(s1_freq, s2_freq)) {          // what if s1 = 'ab' and s2 = 'bac' -> first one only
+        if(Arrays.equals(s1_freq, s2_freq)) {          // what if s1 = 'ab' and s2 = 'bac' -> first one only
             return true;
         }
 
@@ -21,7 +21,7 @@ class Solution {
             s2_freq[s2.charAt(i-1) - 'a']--;   // remove the 1st element of window
             s2_freq[s2.charAt(i + s1.length() - 1) - 'a']++;   // add the new element to window
             
-            if(is_Matched(s1_freq, s2_freq)) {
+            if(Arrays.equals(s1_freq, s2_freq)) {
                 return true;
             }
             
@@ -29,12 +29,12 @@ class Solution {
         return false;
     }
 
-    private boolean is_Matched(int s1_freq[], int s2_freq[]) {
-        for(int i=0 ;i<26; i++) {
-            if(s1_freq[i] != s2_freq[i]) {
-                return false;
-            }
-        }
-        return true;
-    }
+    // private boolean is_Matched(int s1_freq[], int s2_freq[]) {
+    //     for(int i=0 ;i<26; i++) {
+    //         if(s1_freq[i] != s2_freq[i]) {
+    //             return false;
+    //         }
+    //     }
+    //     return true;
+    // }
 }
