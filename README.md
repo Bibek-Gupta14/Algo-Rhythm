@@ -25,6 +25,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0100-same-tree) |
@@ -45,6 +46,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0100-same-tree) |
@@ -70,6 +72,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0100-same-tree) |
@@ -205,4 +208,8 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
