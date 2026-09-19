@@ -165,6 +165,7 @@
 | [0443-string-compression](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
+| [1768-merge-strings-alternately](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0443-string-compression](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
+| [1768-merge-strings-alternately](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1768-merge-strings-alternately) |
 ## Manacher
 |  |
 | ------- |
