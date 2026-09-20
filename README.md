@@ -123,6 +123,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3355-zero-array-transformation-i](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/3355-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1004-max-consecutive-ones-iii) |
+| [3355-zero-array-transformation-i](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/3355-zero-array-transformation-i) |
 ## Stack
 |  |
 | ------- |
