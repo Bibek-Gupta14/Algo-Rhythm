@@ -131,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
@@ -184,6 +185,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
