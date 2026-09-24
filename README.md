@@ -115,6 +115,7 @@
 | [0134-gas-station](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
@@ -154,6 +155,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
