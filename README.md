@@ -120,6 +120,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1004-max-consecutive-ones-iii) |
