@@ -26,7 +26,7 @@ class Solution {
                 }
 
             }
-            else if (l1 > r2)
+            if (l1 > r2)
                 high = partX - 1;
             else
                 low = partX + 1;
