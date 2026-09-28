@@ -21,7 +21,7 @@ class Solution {
     public boolean Speedcheck(int arr[], int h, int speed) {
         int minTime = 0;
         for(int i=0; i<arr.length; i++) {
-            minTime += (int) Math.ceil((double) arr[i] / speed);
+            minTime += (arr[i] + speed - 1)/ speed;
         }
         return minTime <= h;
     }
