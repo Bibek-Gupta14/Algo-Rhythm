@@ -120,6 +120,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
+| [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -163,6 +164,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -181,6 +183,7 @@
 | [0125-valid-palindrome](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1768-merge-strings-alternately) |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0015-3sum) |
+| [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 ## String
 |  |
 | ------- |
