@@ -111,6 +111,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0134-gas-station) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
