@@ -121,6 +121,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
@@ -153,6 +154,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -245,4 +248,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
