@@ -216,6 +216,7 @@
 | [0443-string-compression](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/1768-merge-strings-alternately) |
 ## Manacher
 |  |
@@ -260,4 +261,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
