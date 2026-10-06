@@ -22,18 +22,22 @@ class Node {
 */
 
 class Solution {
+
+    void dfs(Node root) {
+        if(root == null || root.left == null) return;
+
+        root.left.next = root.right;
+        
+        if(root.next != null) 
+            root.right.next = root.next.left;
+
+        dfs(root.left);
+        dfs(root.right);
+    }
+
     public Node connect(Node root) {
         if(root == null) return null;
-        Node left = root.left;
-        Node right = root.right;
-        Node next = root.next;
-
-        if(left != null) {
-            left.next = right;
-            if (next != null) right.next = next.left;
-            connect(left); 
-            connect(right); 
-        }
+        dfs(root);
         return root;
     }
 }
