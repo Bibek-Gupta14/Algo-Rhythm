@@ -134,6 +134,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 ## String
 |  |
