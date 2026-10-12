@@ -137,6 +137,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +159,7 @@
 | [0076-minimum-window-substring](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0567-permutation-in-string) |
@@ -186,6 +188,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -220,6 +223,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0475-heaters) |
 ## String
@@ -290,4 +294,12 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
