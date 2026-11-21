@@ -21,8 +21,8 @@ class Solution {
         for(int i=0; i<isConnected.length; i++) {
 
             if(!visited[i]) {
-                dfs(i, visited, isConnected);
                 count++;
+                dfs(i, visited, isConnected);
             }
         }
         return count;
