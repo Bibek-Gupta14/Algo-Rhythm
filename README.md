@@ -64,6 +64,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0538-convert-bst-to-greater-tree) |
@@ -80,6 +81,7 @@
 | [0112-path-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -137,6 +139,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0238-product-of-array-except-self) |
@@ -288,6 +291,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -328,6 +332,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bibek-Gupta14/Algo-Rhythm/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
